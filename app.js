@@ -34,8 +34,8 @@ console.log(
 
 Cursos:
 - ${courseA.name} (nivel ${courseA.level}, ${courseA.duration} horas)
-- ${courseB.name} (nivel ${courseB.level}) ${courseB.duration} horas)
-- ${courseC.name} (nivel ${courseC.level}) ${courseC.duration} horas)
+- ${courseB.name} (nivel ${courseB.level}, ${courseB.duration} horas)
+- ${courseC.name} (nivel ${courseC.level}, ${courseC.duration} horas)
 
 Alumnos:
 - ${studentA.name} ${studentA.surname1}, ${studentA.age} años
